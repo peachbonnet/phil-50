@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/phil-50/static/css/main.28132160.css",
+    "main.js": "/phil-50/static/js/main.e9937675.js",
+    "static/js/488.8c390fb3.chunk.js": "/phil-50/static/js/488.8c390fb3.chunk.js",
+    "static/media/phil-4.jpg": "/phil-50/static/media/phil-4.f162f735a8cc881356d9.jpg",
+    "static/media/phil-volleyball2.jpg": "/phil-50/static/media/phil-volleyball2.d622c8f3158a74466b91.jpg",
+    "index.html": "/phil-50/index.html",
+    "main.28132160.css.map": "/phil-50/static/css/main.28132160.css.map",
+    "main.e9937675.js.map": "/phil-50/static/js/main.e9937675.js.map",
+    "488.8c390fb3.chunk.js.map": "/phil-50/static/js/488.8c390fb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28132160.css",
+    "static/js/main.e9937675.js"
+  ]
+}
