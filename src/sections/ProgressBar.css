@@ -1,0 +1,13 @@
+.progress-bar {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+@media (min-width: 768px) {
+  .progress-bar {
+    width: 70%;
+    max-width: 1024px;
+    padding-top: 80px;
+  }
+}

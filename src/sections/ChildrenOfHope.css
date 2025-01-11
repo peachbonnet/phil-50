@@ -1,0 +1,42 @@
+.children-of-hope {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.coh-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.coh-h3 {
+  color: #47a08e;
+}
+
+.coh-pic {
+  margin: 0 auto;
+  width: 90%;
+  box-shadow: -0.75rem 0.75rem rgb(218, 84, 0);
+  transform: rotate(-1.5deg);
+}
+
+@media (min-width: 768px) {
+  .children-of-hope {
+    width: 70%;
+    max-width: 1024px;
+    padding-top: 80px;
+    flex-direction: row;
+    gap: 50px;
+  }
+
+  .coh-pic {
+    width: 40%;
+    box-shadow: -0.75rem 0.75rem rgb(218, 84, 0);
+    transform: rotate(-2deg);
+  }
+}

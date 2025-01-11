@@ -1,0 +1,19 @@
+.button-sponsor {
+  color: #fff;
+  font-weight: bold;
+  background-color: #41521f;
+  background-color: #82bfb3;
+  background-color: #fdb134;
+  border-radius: 2px;
+  padding: 12px 18px;
+  border: none;
+  font-family: "Nunito", serif;
+  font-size: 18px;
+}
+
+.button-sponsor:hover {
+  cursor: pointer;
+  background-color: #3a4a19;
+  background-color: rgb(103, 173, 157);
+    background-color: #f9a724;
+}

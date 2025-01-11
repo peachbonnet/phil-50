@@ -1,0 +1,18 @@
+.progressVisualFull {
+  display: flex;
+  height: 30px;
+  margin-top: 20px;
+  background-color: #e5e5e5;
+    background-color: #f0f1e2;
+  border-radius: 10px;
+}
+
+.progressVisualPart {
+  /* Number of the seconds for complete animation */
+  transition: width 2s;
+  background-color: #ff4800;
+  background-color: #db5d14;
+  background-color:  #f96635;
+  /* background-color: #C96435; */
+  border-radius: 10px 0 0 10px;
+}
