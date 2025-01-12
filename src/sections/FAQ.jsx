@@ -7,10 +7,10 @@ export default function FAQ() {
       question: <h3>How much does a sponsorship child cost?</h3>,
       answer: (
         <p>
-          Our child sponsorship program is a monthly donation of a minimum of
+          "Our child sponsorship program is a monthly donation of a minimum of
           $40 per month. This donation goes directly to the home that cares for
           the child. This donation will provide a loving home, nutritious food,
-          clothing, education, spiritual and medical care for the child.
+          clothing, education, spiritual and medical care for the child."
         </p>
       ),
     },
@@ -19,14 +19,14 @@ export default function FAQ() {
       answer: (
         <div>
           <p>
-            Our sponsorship program is designed to provide an opportunity to
+            "Our sponsorship program is designed to provide an opportunity to
             connect personally with a child! As a child sponsor, you can expect
             to receive a personal Christmas Letter every year from your child,
             an updated photo, and a Report Card which updates you on their
             health and growth in different areas of their lives! Sponsors love
             having a snapshot into the life of their sponsor child! In return,
             sponsors have the opportunity to correspond with their children and
-            even visit them through our short-term missions teams!
+            even visit them through our short-term missions teams!"
           </p>
         </div>
       ),
@@ -36,7 +36,7 @@ export default function FAQ() {
       answer: (
         <>
           <p>
-            Children who come from a background of neglect, abuse, or trauma see
+            "Children who come from a background of neglect, abuse, or trauma see
             little hope. The goal of Children of Hope is as the name suggests –
             to give children hope, hope above all in our Lord and Savior Jesus
             Christ. Through caring for the physical, emotional, and spiritual
@@ -53,7 +53,7 @@ export default function FAQ() {
             teaching these Christian values to the children, they will carry
             this on into their future home, work, and community. Our ministries
             allow children to grow up in a Christian setting to become
-            responsible citizens of their communities.
+            responsible citizens of their communities."
           </p>
         </>
       ),
@@ -72,20 +72,7 @@ export default function FAQ() {
             className="coh-link"
             target="_blank"
           >
-            Children of Hope website{" "}
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
-              fill="currentColor"
-              className="bi bi-arrow-right"
-              viewBox="0 0 16 16"
-            >
-              <path
-                fillRule="evenodd"
-                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"
-              />
-            </svg>
+            Children of Hope website.
           </a>
         </p>
         <div className="faq-container">

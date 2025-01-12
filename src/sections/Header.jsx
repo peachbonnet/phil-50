@@ -12,7 +12,7 @@ export default function Header() {
       <div className="header-title">
         <h1>50 for Phil's 50</h1>
         <h2>Celebrating a birthday milestone in an impactful&nbsp;way!</h2>
-        <p>50 child sponsorships for Phil's 50th birthday</p>
+        <p>Please join in raising 50 child sponsorships for Phil's 50th birthday&nbsp;year!</p>
         <SponsorButton />
       </div>
     </section>
