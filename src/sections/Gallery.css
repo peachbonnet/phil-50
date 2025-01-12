@@ -22,7 +22,6 @@
 
 .carousel-img img {
   width: 100%;
-  touch-action: none;
 }
 
 .react-multi-carousel-list {

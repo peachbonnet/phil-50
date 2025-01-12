@@ -36,12 +36,12 @@ export default function FAQ() {
       answer: (
         <>
           <p>
-            "Children who come from a background of neglect, abuse, or trauma see
-            little hope. The goal of Children of Hope is as the name suggests –
-            to give children hope, hope above all in our Lord and Savior Jesus
-            Christ. Through caring for the physical, emotional, and spiritual
-            needs of children, we are able to spark hope. We desire to see
-            freedom from their past life of pain and be transformed into a
+            "Children who come from a background of neglect, abuse, or trauma
+            see little hope. The goal of Children of Hope is as the name
+            suggests – to give children hope, hope above all in our Lord and
+            Savior Jesus Christ. Through caring for the physical, emotional, and
+            spiritual needs of children, we are able to spark hope. We desire to
+            see freedom from their past life of pain and be transformed into a
             restored child who sees their life as valuable. Children of Hope
             works toward this by showing each child that they are loved,
             supported and that their needs are being met.
@@ -72,8 +72,9 @@ export default function FAQ() {
             className="coh-link"
             target="_blank"
           >
-            Children of Hope website.
+            Children of Hope website
           </a>
+          .
         </p>
         <div className="faq-container">
           {list.map((item, i) => (
