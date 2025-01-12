@@ -66,7 +66,7 @@ export default function FAQ() {
         <img src={mexico} className="icon-3" />
         <h2>FAQ</h2>
         <p>
-          Answers and more information can be found on the{" "}
+          These answers and more information can be found on the{" "}
           <a
             href="https://childrenofhope.info"
             className="coh-link"

@@ -8,6 +8,7 @@ import FAQ from "./sections/FAQ";
 import Footer from "./sections/Footer";
 import Header from "./sections/Header";
 import ProgressBar from "./sections/ProgressBar";
+import Gallery from "./sections/Gallery";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -16,6 +17,7 @@ root.render(
     <CallToAction />
     <ProgressBar />
     <ChildrenOfHope />
+    <Gallery />
     <FAQ />
     <Footer />
   </React.StrictMode>
