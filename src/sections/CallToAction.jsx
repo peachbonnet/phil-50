@@ -17,10 +17,10 @@ export default function CallToAction() {
             <p>
               The work of providing a safe place for these children to sleep,
               eat, get an education, and learn about Jesus requires many people,
-              money and resources. I’ve had the privilege of visiting and
+              money and resources. I’ve had the privilege of visiting, supporting, and
               volunteering at several of the orphanages, soup kitchens, and
               community centers that they support, and I want to help in a
-              meaningful and powerful way.
+              meaningful and powerful&nbsp;way.
             </p>
             <p>
               Will you join me and commit to sponsoring a child for a year?{" "}
