@@ -8,7 +8,7 @@ const ProgressLine = ({ percentage = "0%" }) => {
     requestAnimationFrame(() => {
       setWidth(percentage);
     });
-  }, []);
+  }, [percentage]);
 
   return (
     <div className="progressVisualFull">

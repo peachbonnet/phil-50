@@ -71,6 +71,7 @@ export default function FAQ() {
             href="https://childrenofhope.info"
             className="coh-link"
             target="_blank"
+            rel="noreferrer"
           >
             Children of Hope website
           </a>

@@ -11,7 +11,7 @@ export default function ChildrenOfHope() {
           Children of Hope has a vision to give children in Mexico a brighter
           tomorrow. Their goal is to train children up to be responsible
           Christian citizens in their communities and see them succeed in
-          society.  They raise support for their children’s ministries and
+          society. They raise support for their children’s ministries and
           community centers through child sponsorships, short-term mission
           groups, and donors.
         </p>
