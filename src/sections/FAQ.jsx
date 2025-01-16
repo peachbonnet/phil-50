@@ -44,7 +44,7 @@ export default function FAQ() {
             see freedom from their past life of pain and be transformed into a
             restored child who sees their life as valuable. Children of Hope
             works toward this by showing each child that they are loved,
-            supported and that their needs are being met.
+            supported and that their needs are being&nbsp;met.
           </p>
           <p>
             Children of Hope desires to be the beginning of a healthy cycle of
