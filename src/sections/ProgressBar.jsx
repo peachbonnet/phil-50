@@ -2,7 +2,7 @@ import ProgressLine from "../components/ProgressLine";
 import "./ProgressBar.css";
 
 export default function ProgressBar() {
-  const amountOfSponsors = 1;
+  const amountOfSponsors = 2;
   const percentage = ((amountOfSponsors / 50) * 100).toString() + "%";
   return (
     <section className="progress-bar">
